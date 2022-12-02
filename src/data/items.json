@@ -3,19 +3,19 @@
     "id": 1,
     "name": "Book",
     "price": 10.99,
-    "imgUrl": "/testpage/imgs/book.jpg"
+    "imgUrl": "/shopping-cart/imgs/book.jpg"
   },
   {
     "id": 2,
     "name": "Computer",
     "price": 1199,
-    "imgUrl": "/testpage/imgs/computer.jpg"
+    "imgUrl": "/shopping-cart/imgs/computer.jpg"
   },
   {
     "id": 3,
     "name": "Banana",
     "price": 1.05,
-    "imgUrl": "/testpage/imgs/banana.jpg"
+    "imgUrl": "/shopping-cart/imgs/banana.jpg"
   },
   {
     "id": 4,
